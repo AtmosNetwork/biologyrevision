@@ -1,0 +1,5 @@
+
+{
+  "name": "AQA A-Level Biology Revision Helper",
+  "description": "An interactive web application designed to help students revise for their AQA A-Level Biology exams by generating summaries, practice questions, and detailed explanations for any topic using the Gemini API."
+}
